@@ -1,1 +1,1 @@
-d=int(
+d=int(input)
