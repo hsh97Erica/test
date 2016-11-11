@@ -46,3 +46,4 @@ exclude
 earthwall
 laghouat
 tsaritza
+agusta
