@@ -48,3 +48,4 @@ dhahran
 nucleary
 yangba
 attoparsec
+capsular
