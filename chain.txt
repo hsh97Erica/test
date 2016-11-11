@@ -10,3 +10,4 @@ erlang
 glads
 subgape
 endeavors
+semicretin
