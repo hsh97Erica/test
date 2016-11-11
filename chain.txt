@@ -51,3 +51,4 @@ attoparsec
 capsular
 revises
 scoutdom
+manoeuvred
