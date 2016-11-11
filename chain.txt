@@ -7,3 +7,4 @@ expulses
 strict
 telephotos
 shabogala
+annotative
