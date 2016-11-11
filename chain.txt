@@ -53,3 +53,4 @@ revises
 scoutdom
 manoeuvred
 durn
+nehushta
