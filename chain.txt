@@ -30,3 +30,4 @@ establishments
 spars
 sequined
 diction
+negotiator
