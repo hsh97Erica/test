@@ -31,3 +31,4 @@ spars
 sequined
 diction
 negotiator
+regimenting
