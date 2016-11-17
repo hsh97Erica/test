@@ -32,3 +32,4 @@ sequined
 diction
 negotiator
 regimenting
+giving
