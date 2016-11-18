@@ -42,3 +42,4 @@ grip
 prejudiced
 decant
 tears
+scruples
