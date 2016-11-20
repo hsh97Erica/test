@@ -56,3 +56,4 @@ diced
 dock
 kicks
 splittings
+spearing
