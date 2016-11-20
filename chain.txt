@@ -58,3 +58,4 @@ kicks
 splittings
 spearing
 grope
+edify
