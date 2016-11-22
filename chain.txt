@@ -72,3 +72,4 @@ lozenge
 extorted
 debatable
 envious
+synchronizing
