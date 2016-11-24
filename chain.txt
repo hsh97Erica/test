@@ -91,3 +91,4 @@ gouges
 shops
 schemers
 shuteye
+eyesore
