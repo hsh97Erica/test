@@ -95,3 +95,4 @@ eyesore
 escorting
 graybeards
 sores
+strophe
