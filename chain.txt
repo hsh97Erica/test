@@ -97,3 +97,4 @@ graybeards
 sores
 strophe
 eyepieces
+snaring
