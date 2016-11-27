@@ -103,3 +103,4 @@ yacking
 gourmands
 semitones
 supernaturals
+sprinter
