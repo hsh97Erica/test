@@ -111,3 +111,4 @@ ecumenical
 libidos
 spacewalks
 stenographic
+canasta
