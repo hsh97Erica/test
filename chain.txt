@@ -115,3 +115,4 @@ canasta
 agitate
 epicureans
 sows
+spores
