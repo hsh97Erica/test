@@ -127,3 +127,4 @@ starry
 yanking
 generalization
 nixed
+demagogy
