@@ -140,3 +140,4 @@ tsar
 revolving
 grabs
 shatter
+revolted
