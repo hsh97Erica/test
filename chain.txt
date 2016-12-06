@@ -167,3 +167,4 @@ keenness
 subheads
 scarified
 disabuse
+exploratory
