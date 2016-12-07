@@ -173,3 +173,4 @@ summaries
 silicosis
 sandlots
 synchronizes
+shanties
