@@ -174,3 +174,4 @@ silicosis
 sandlots
 synchronizes
 shanties
+slurp
