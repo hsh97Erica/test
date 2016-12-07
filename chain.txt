@@ -175,3 +175,4 @@ sandlots
 synchronizes
 shanties
 slurp
+photocopying
