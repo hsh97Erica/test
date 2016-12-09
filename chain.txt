@@ -186,3 +186,4 @@ landmark
 kippering
 gymnasts
 spectrum
+mansards
