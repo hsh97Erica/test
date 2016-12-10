@@ -193,3 +193,4 @@ gecko
 oscillate
 empiricism
 mow
+weightiest
