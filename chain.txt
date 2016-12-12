@@ -212,3 +212,4 @@ sanctioned
 dinner
 repast
 tautology
+yeshiva
