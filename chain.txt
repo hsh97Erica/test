@@ -224,3 +224,4 @@ expect
 teletypes
 starlet
 telegraphs
+scabbing
