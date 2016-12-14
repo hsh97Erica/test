@@ -223,3 +223,4 @@ gruesome
 expect
 teletypes
 starlet
+telegraphs
