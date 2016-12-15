@@ -229,3 +229,4 @@ genius
 splashdown
 nonrestrictive
 egotistical
+lanyard
