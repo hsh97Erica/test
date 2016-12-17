@@ -252,3 +252,4 @@ dowse
 engrosses
 spiderier
 rooster
+rebuff
