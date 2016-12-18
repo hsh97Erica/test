@@ -263,3 +263,4 @@ homerooms
 sew
 weighed
 daubs
+smidgeon
