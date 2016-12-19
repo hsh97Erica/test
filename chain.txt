@@ -269,3 +269,4 @@ encyclicals
 scraper
 returnable
 expropriate
+empowers
