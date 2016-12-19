@@ -266,3 +266,4 @@ daubs
 smidgeon
 nonobjective
 encyclicals
+scraper
