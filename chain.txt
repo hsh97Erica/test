@@ -268,3 +268,4 @@ nonobjective
 encyclicals
 scraper
 returnable
+expropriate
